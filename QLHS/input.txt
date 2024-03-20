@@ -1,0 +1,5 @@
+12345,Phan Thanh Phúc,m,10,9
+12344,Phạm Quốc Bảo,m,4,5
+12343,Phạm Hoàng Tú Anh,f,7,8
+12342,Phan Thu Hiền,f,9,9
+12341,Nguyễn Đức Độ,m,3,6

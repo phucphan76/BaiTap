@@ -1,0 +1,20 @@
+************************************************************************
+HocSinh [maSv=12345, hoTen=Phan Thanh Phúc, gioiTinh=m, diemJava=10.0, diemPython=9.0]
+Điểm trung bình: 9.66
+Kết quả: Đậu
+************************************************************************
+HocSinh [maSv=12342, hoTen=Phan Thu Hiền, gioiTinh=f, diemJava=9.0, diemPython=9.0]
+Điểm trung bình: 9.0
+Kết quả: Đậu
+************************************************************************
+HocSinh [maSv=12343, hoTen=Phạm Hoàng Tú Anh, gioiTinh=f, diemJava=7.0, diemPython=8.0]
+Điểm trung bình: 7.33
+Kết quả: Đậu
+************************************************************************
+HocSinh [maSv=12344, hoTen=Phạm Quốc Bảo, gioiTinh=m, diemJava=4.0, diemPython=5.0]
+Điểm trung bình: 4.33
+Kết quả: Trượt
+************************************************************************
+HocSinh [maSv=12341, hoTen=Nguyễn Đức Độ, gioiTinh=m, diemJava=3.0, diemPython=6.0]
+Điểm trung bình: 4.0
+Kết quả: Trượt
